@@ -1,0 +1,31 @@
+#top {
+  background-image: url("../image/pattern.jpeg");
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  margin-top: 0%;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+}
+.head2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+#h2_1 {
+  background-color: mediumspringgreen;
+}
+#h2_2 {
+  background-color: lightcoral;
+}
+#h2_3 {
+  background-color: skyblue;
+}
+.st {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: blue;
+}
